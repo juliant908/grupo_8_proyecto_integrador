@@ -3,7 +3,7 @@
 ---
 
 ## Descripción.
-#### En _______ ofrecemos un servicio de compra de Keys para juegos de diferentes plataformas/ consolas totalmente confiable y con la mayor seguridad a la hora de comprar, disponiendo de una amplia variedad de titulos, ven y disfruta de tus juegos favoritos.
+#### En GAMESPOT ofrecemos un servicio de compra de Keys para juegos de diferentes plataformas/ consolas totalmente confiable y con la mayor seguridad a la hora de comprar, disponiendo de una amplia variedad de titulos, ven y disfruta de tus juegos favoritos.
 #### Nuestro sitio principalmente dirigido a todo publico GAMER, quienes buscan experiencias con diferentes juegos y que puedan adquirir de manera segura y a buen precio
 
 ---
