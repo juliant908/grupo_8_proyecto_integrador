@@ -1,0 +1,23 @@
+.top-header {
+  display: flex;
+  font-family: var(--oswald);
+  font-size: var(--header);
+  justify-content: space-between;
+  text-decoration-line: none;
+  list-style: none;
+  align-items: center;
+}
+nav > ul {
+  display: flex;
+  gap: 1em;
+  list-style-type: none;
+}
+nav > ul > li > a {
+  text-decoration: none;
+}
+.login {
+  border: 0.5em solid black;
+}
+.sign-up {
+  border: 0.5em solid black;
+}

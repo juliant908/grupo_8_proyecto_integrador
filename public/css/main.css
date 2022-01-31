@@ -1,1 +1,35 @@
+/* Imports */
 @import url(/css/home.css);
+@import url(/css/header.css);
+@import url(/css/footer.css);
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500&family=Oswald:wght@300;400;500&display=swap");
+
+/* Variables */
+:root {
+  /* Colores */
+  --azulFondo: #0582ca;
+  --blanco: #f4f5f6;
+  --negro: #121212;
+  --azulBotones: #0038ff;
+  /* Tamaño fuentes mobile/tablet */
+  --header: 4em;
+  --titles: 3.4em;
+  --subtitle: 2.1em;
+  --body: 2em;
+  --smallest: 1.2em;
+  /* Familias de fuentes */
+  --oswald: "Oswald", sans-serif;
+  --nunito: "nunito", sans-serif;
+}
+
+/* Normalización */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Estilos comunes */
+html {
+  font-size: 62.5%;
+}
